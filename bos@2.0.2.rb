@@ -1,4 +1,4 @@
-class Bos < Formula
+class BosAT202 < Formula
 
    homepage "https://boscore.io/"
    revision 0
