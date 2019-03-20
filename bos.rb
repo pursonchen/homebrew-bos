@@ -17,8 +17,8 @@ class Bos < Formula
   
    bottle do
       root_url "https://github.com/boscore/bos/releases/download/v2.0.2"
-      sha256 "00e7f33ded08ff9d1a5b144ea74546f3754b93a8337f20cbb688879893764cd9" => :high_sierra
-      sha256 "00e7f33ded08ff9d1a5b144ea74546f3754b93a8337f20cbb688879893764cd9" => :mojave
+      sha256 "25d522832868fe3b62a86cbb4f4d42466389132190c31b8819556d4e365ee32d" => :high_sierra
+      sha256 "25d522832868fe3b62a86cbb4f4d42466389132190c31b8819556d4e365ee32d" => :mojave
    end
    def install
       raise "Error, only supporting binary packages at this time"
